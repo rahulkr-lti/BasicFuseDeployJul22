@@ -1,4 +1,5 @@
-FROM jboss/base-jdk:8
+#FROM jboss/base-jdk:8
+FROM camel-ose-springboot-xml
 
 EXPOSE 8082
 
